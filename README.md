@@ -59,4 +59,5 @@ Tech: JavaScript, API integration
 ## 📫 Connect with me
 
 GitHub: https://github.com/Jashi-5
-LinkedIn: Jashwanthan Dayalan
+LinkedIn:https://www.linkedin.com/in/jashwanthan-dayalan-4b23582b1/
+
